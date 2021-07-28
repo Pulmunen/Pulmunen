@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Pulmunen
 - 👀 I’m interested in the relationship between teaching and learning natural languages and artificial languages
 - 🌱 I’m currently learning JavaScript, React
-- 💞️ I’m looking to collaborate on projects that push css to the max, help coding how-to demonstrators become coding educators
+- 💞️ I’m looking to collaborate on 
+  -  Wordpress headless, Gutenberg blocks
+  -  help coding how-to demonstrators become coding educators
 - 📫 How to reach me twitter @liveinlapland
 
 <!---
